@@ -38,5 +38,12 @@ public class Student {
      System.out.println("Hello");
      return;
 }
+<<<<<<< HEAD
     void myTest(){}
+=======
+
+    void myTest(){
+	}
+
+>>>>>>> parent of e6a9a42 (Revert "Update Student.java")
 }
